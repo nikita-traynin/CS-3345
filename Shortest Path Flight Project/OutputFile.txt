@@ -1,0 +1,42 @@
+
+Flight Path 1: 
+Columbus -> Boston -> El-Paso; Total Cost: 1292asdf$. 
+
+Flight Path 1: 
+Columbus -> Dallas -> El-Paso; Total Time: 203 minutes. 
+
+Flight Path 1: 
+El-Paso -> Houston -> Indianapolis; Total Cost: 107asdf$. 
+
+Flight Path 1: 
+El-Paso -> Houston -> Indianapolis; Total Time: 276 minutes. 
+
+Flight Path 1: 
+Columbus -> Dallas -> Fort-Worth -> Houston -> Indianapolis; Total Cost: 1396asdf$. 
+
+Flight Path 1: 
+Columbus -> Dallas -> Austin -> Houston -> Indianapolis; Total Time: 417 minutes. 
+
+Flight Path 1: 
+Austin -> El-Paso -> Houston -> Indianapolis; Total Cost: 596asdf$. 
+
+Flight Path 1: 
+Austin -> Houston -> Indianapolis; Total Time: 238 minutes. 
+
+Flight Path 1: 
+Columbus -> Boston -> El-Paso -> Georgetown; Total Cost: 1568asdf$. 
+
+Flight Path 1: 
+Columbus -> Dallas -> Austin -> Georgetown; Total Time: 266 minutes. 
+
+Flight Path 1: 
+Boston -> El-Paso -> Houston -> Fort-Worth; Total Cost: 547asdf$. 
+
+Flight Path 1: 
+Boston -> Dallas -> Fort-Worth; Total Time: 129 minutes. 
+
+Flight Path 1: 
+Dallas -> Fort-Worth -> Houston; Total Cost: 369asdf$. 
+
+Flight Path 1: 
+Dallas -> Austin -> Houston; Total Time: 54 minutes. 
